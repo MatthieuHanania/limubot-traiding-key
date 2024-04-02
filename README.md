@@ -1,1 +1,1 @@
-# limubot-traiding-key
+# limubot-traiding-news
