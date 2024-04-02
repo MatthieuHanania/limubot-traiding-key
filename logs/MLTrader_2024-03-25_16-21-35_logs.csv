@@ -1,0 +1,514 @@
+2024-03-25 16:21:35,077: asyncio: INFO: [MLTrader] Executing the initialize lifecycle method
+2024-03-25 16:21:37,276: root: INFO: Current backtesting datetime 2020-01-02 08:30:00-05:00
+2024-03-25 16:21:37,278: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-03-25 16:21:37,280: root: INFO: Current backtesting datetime 2020-01-02 09:30:00-05:00
+2024-03-25 16:21:37,280: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-03-25 16:21:37,282: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:37[0m
+2024-03-25 16:21:37,286: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:37,313: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:49,757: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:49[0m
+2024-03-25 16:21:49,758: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:49,760: root: INFO: Current backtesting datetime 2020-01-02 16:00:00-05:00
+2024-03-25 16:21:49,760: root: INFO: Current backtesting datetime 2020-01-03 09:30:00-05:00
+2024-03-25 16:21:49,761: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:49[0m
+2024-03-25 16:21:49,761: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:49,763: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:49,960: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:49[0m
+2024-03-25 16:21:49,962: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:49,964: root: INFO: Current backtesting datetime 2020-01-03 16:00:00-05:00
+2024-03-25 16:21:49,964: root: INFO: Current backtesting datetime 2020-01-04 09:30:00-05:00
+2024-03-25 16:21:49,965: asyncio: INFO: [MLTrader] [34mThe market is not currently open, skipping this trading iteration[0m
+2024-03-25 16:21:49,968: root: INFO: Current backtesting datetime 2020-01-04 09:29:00-05:00
+2024-03-25 16:21:49,973: root: INFO: Current backtesting datetime 2020-01-04 09:29:00-05:00
+2024-03-25 16:21:49,973: asyncio: INFO: [MLTrader] Executing the after_market_closes lifecycle method
+2024-03-25 16:21:49,975: root: INFO: Current backtesting datetime 2020-01-06 08:30:00-05:00
+2024-03-25 16:21:49,977: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-03-25 16:21:49,979: root: INFO: Current backtesting datetime 2020-01-06 09:30:00-05:00
+2024-03-25 16:21:49,979: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-03-25 16:21:49,982: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:49[0m
+2024-03-25 16:21:49,983: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:49,991: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:50,185: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:50[0m
+2024-03-25 16:21:50,188: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:50,189: root: INFO: Current backtesting datetime 2020-01-06 16:00:00-05:00
+2024-03-25 16:21:50,190: root: INFO: Current backtesting datetime 2020-01-07 09:30:00-05:00
+2024-03-25 16:21:50,191: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:50[0m
+2024-03-25 16:21:50,191: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:50,193: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:50,394: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:50[0m
+2024-03-25 16:21:50,396: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:50,398: root: INFO: Current backtesting datetime 2020-01-07 16:00:00-05:00
+2024-03-25 16:21:50,398: root: INFO: Current backtesting datetime 2020-01-08 09:30:00-05:00
+2024-03-25 16:21:50,399: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:50[0m
+2024-03-25 16:21:50,399: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:50,401: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:50,710: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:50[0m
+2024-03-25 16:21:50,712: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:50,714: root: INFO: Current backtesting datetime 2020-01-08 16:00:00-05:00
+2024-03-25 16:21:50,715: root: INFO: Current backtesting datetime 2020-01-09 09:30:00-05:00
+2024-03-25 16:21:50,716: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:50[0m
+2024-03-25 16:21:50,716: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:50,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:51,521: asyncio: INFO: [MLTrader] [31mAn error occurred during the on_trading_iteration lifecycle method: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 2.00 GiB of which 0 bytes is free. Of the allocated memory 1.70 GiB is allocated by PyTorch, and 24.48 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)[0m
+2024-03-25 16:21:51,583: asyncio: INFO: [MLTrader] [31mTraceback (most recent call last):
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 345, in _on_trading_iteration
+    on_trading_iteration()
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Matthieu\Projets Python\Monney_AI\trading_bot.py", line 60, in on_trading_iteration
+    probability, sentiment = self.get_sentiment_news()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Matthieu\Projets Python\Monney_AI\trading_bot.py", line 54, in get_sentiment_news
+    probability, sentiment = get_news_sentiment(news)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Matthieu\Projets Python\Monney_AI\sentiment_analysis.py", line 15, in get_news_sentiment
+    result = model(tokens["input_ids"],attention_mask=tokens["attention_mask"])[
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 1564, in forward
+    outputs = self.bert(
+              ^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 1013, in forward
+    encoder_outputs = self.encoder(
+                      ^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 607, in forward
+    layer_outputs = layer_module(
+                    ^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 497, in forward
+    self_attention_outputs = self.attention(
+                             ^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 427, in forward
+    self_outputs = self.self(
+                   ^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 325, in forward
+    attention_scores = torch.matmul(query_layer, key_layer.transpose(-1, -2))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 2.00 GiB of which 0 bytes is free. Of the allocated memory 1.70 GiB is allocated by PyTorch, and 24.48 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[0m
+2024-03-25 16:21:51,583: asyncio: INFO: [MLTrader] Executing the on_bot_crash event method
+2024-03-25 16:21:54,282: root: INFO: Risk Free Rate 1.50%
+2024-03-25 16:21:54,781: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:54,782: root: INFO: Current backtesting datetime 2020-01-09 16:00:00-05:00
+2024-03-25 16:21:54,783: root: INFO: Current backtesting datetime 2020-01-10 09:30:00-05:00
+2024-03-25 16:21:54,784: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:54[0m
+2024-03-25 16:21:54,784: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:54,786: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:54,962: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:54[0m
+2024-03-25 16:21:54,964: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:54,966: root: INFO: Current backtesting datetime 2020-01-10 16:00:00-05:00
+2024-03-25 16:21:54,967: root: INFO: Current backtesting datetime 2020-01-11 09:30:00-05:00
+2024-03-25 16:21:54,968: asyncio: INFO: [MLTrader] [34mThe market is not currently open, skipping this trading iteration[0m
+2024-03-25 16:21:54,973: root: INFO: Current backtesting datetime 2020-01-11 09:29:00-05:00
+2024-03-25 16:21:54,975: root: INFO: Current backtesting datetime 2020-01-11 09:29:00-05:00
+2024-03-25 16:21:54,976: asyncio: INFO: [MLTrader] Executing the after_market_closes lifecycle method
+2024-03-25 16:21:54,979: root: INFO: Current backtesting datetime 2020-01-13 08:30:00-05:00
+2024-03-25 16:21:54,981: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-03-25 16:21:54,983: root: INFO: Current backtesting datetime 2020-01-13 09:30:00-05:00
+2024-03-25 16:21:54,983: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-03-25 16:21:54,985: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:54[0m
+2024-03-25 16:21:54,985: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:54,986: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:55,192: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:55[0m
+2024-03-25 16:21:55,194: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:55,196: root: INFO: Current backtesting datetime 2020-01-13 16:00:00-05:00
+2024-03-25 16:21:55,197: root: INFO: Current backtesting datetime 2020-01-14 09:30:00-05:00
+2024-03-25 16:21:55,198: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:55[0m
+2024-03-25 16:21:55,198: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:55,200: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:55,384: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:55[0m
+2024-03-25 16:21:55,386: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:55,387: root: INFO: Current backtesting datetime 2020-01-14 16:00:00-05:00
+2024-03-25 16:21:55,388: root: INFO: Current backtesting datetime 2020-01-15 09:30:00-05:00
+2024-03-25 16:21:55,389: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:55[0m
+2024-03-25 16:21:55,389: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:55,391: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:55,542: asyncio: INFO: [MLTrader] [31mAn error occurred during the on_trading_iteration lifecycle method: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 2.00 GiB of which 0 bytes is free. Of the allocated memory 1.69 GiB is allocated by PyTorch, and 28.46 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)[0m
+2024-03-25 16:21:55,555: asyncio: INFO: [MLTrader] [31mTraceback (most recent call last):
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 345, in _on_trading_iteration
+    on_trading_iteration()
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Matthieu\Projets Python\Monney_AI\trading_bot.py", line 60, in on_trading_iteration
+    probability, sentiment = self.get_sentiment_news()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Matthieu\Projets Python\Monney_AI\trading_bot.py", line 54, in get_sentiment_news
+    probability, sentiment = get_news_sentiment(news)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Matthieu\Projets Python\Monney_AI\sentiment_analysis.py", line 15, in get_news_sentiment
+    result = model(tokens["input_ids"],attention_mask=tokens["attention_mask"])[
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 1564, in forward
+    outputs = self.bert(
+              ^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 1013, in forward
+    encoder_outputs = self.encoder(
+                      ^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 607, in forward
+    layer_outputs = layer_module(
+                    ^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 497, in forward
+    self_attention_outputs = self.attention(
+                             ^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 427, in forward
+    self_outputs = self.self(
+                   ^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 308, in forward
+    key_layer = self.transpose_for_scores(self.key(hidden_states))
+                                          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\linear.py", line 116, in forward
+    return F.linear(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 2.00 GiB of which 0 bytes is free. Of the allocated memory 1.69 GiB is allocated by PyTorch, and 28.46 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[0m
+2024-03-25 16:21:55,555: asyncio: INFO: [MLTrader] Executing the on_bot_crash event method
+2024-03-25 16:21:55,590: root: INFO: Risk Free Rate 1.51%
+2024-03-25 16:21:55,626: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:55,628: root: INFO: Current backtesting datetime 2020-01-15 16:00:00-05:00
+2024-03-25 16:21:55,629: root: INFO: Current backtesting datetime 2020-01-16 09:30:00-05:00
+2024-03-25 16:21:55,631: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:55[0m
+2024-03-25 16:21:55,632: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:55,634: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:55,818: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:55[0m
+2024-03-25 16:21:55,820: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:55,822: root: INFO: Current backtesting datetime 2020-01-16 16:00:00-05:00
+2024-03-25 16:21:55,822: root: INFO: Current backtesting datetime 2020-01-17 09:30:00-05:00
+2024-03-25 16:21:55,823: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:55[0m
+2024-03-25 16:21:55,823: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:55,828: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:56,009: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:56[0m
+2024-03-25 16:21:56,010: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:56,012: root: INFO: Current backtesting datetime 2020-01-17 16:00:00-05:00
+2024-03-25 16:21:56,012: root: INFO: Current backtesting datetime 2020-01-18 09:30:00-05:00
+2024-03-25 16:21:56,013: asyncio: INFO: [MLTrader] [34mThe market is not currently open, skipping this trading iteration[0m
+2024-03-25 16:21:56,015: root: INFO: Current backtesting datetime 2020-01-18 09:29:00-05:00
+2024-03-25 16:21:56,016: root: INFO: Current backtesting datetime 2020-01-18 09:29:00-05:00
+2024-03-25 16:21:56,017: asyncio: INFO: [MLTrader] Executing the after_market_closes lifecycle method
+2024-03-25 16:21:56,018: root: INFO: Current backtesting datetime 2020-01-21 08:30:00-05:00
+2024-03-25 16:21:56,019: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-03-25 16:21:56,020: root: INFO: Current backtesting datetime 2020-01-21 09:30:00-05:00
+2024-03-25 16:21:56,020: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-03-25 16:21:56,022: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:56[0m
+2024-03-25 16:21:56,022: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:56,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:56,225: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:56[0m
+2024-03-25 16:21:56,227: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:56,229: root: INFO: Current backtesting datetime 2020-01-21 16:00:00-05:00
+2024-03-25 16:21:56,229: root: INFO: Current backtesting datetime 2020-01-22 09:30:00-05:00
+2024-03-25 16:21:56,230: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:56[0m
+2024-03-25 16:21:56,230: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:56,232: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:56,366: asyncio: INFO: [MLTrader] [31mAn error occurred during the on_trading_iteration lifecycle method: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 2.00 GiB of which 0 bytes is free. Of the allocated memory 1.70 GiB is allocated by PyTorch, and 15.33 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)[0m
+2024-03-25 16:21:56,392: asyncio: INFO: [MLTrader] [31mTraceback (most recent call last):
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 345, in _on_trading_iteration
+    on_trading_iteration()
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Matthieu\Projets Python\Monney_AI\trading_bot.py", line 60, in on_trading_iteration
+    probability, sentiment = self.get_sentiment_news()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Matthieu\Projets Python\Monney_AI\trading_bot.py", line 54, in get_sentiment_news
+    probability, sentiment = get_news_sentiment(news)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Matthieu\Projets Python\Monney_AI\sentiment_analysis.py", line 15, in get_news_sentiment
+    result = model(tokens["input_ids"],attention_mask=tokens["attention_mask"])[
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 1564, in forward
+    outputs = self.bert(
+              ^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 1013, in forward
+    encoder_outputs = self.encoder(
+                      ^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 607, in forward
+    layer_outputs = layer_module(
+                    ^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 539, in forward
+    layer_output = apply_chunking_to_forward(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\pytorch_utils.py", line 237, in apply_chunking_to_forward
+    return forward_fn(*input_tensors)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 551, in feed_forward_chunk
+    intermediate_output = self.intermediate(attention_output)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 452, in forward
+    hidden_states = self.intermediate_act_fn(hidden_states)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\activations.py", line 79, in forward
+    return self.act(input)
+           ^^^^^^^^^^^^^^^
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 2.00 GiB of which 0 bytes is free. Of the allocated memory 1.70 GiB is allocated by PyTorch, and 15.33 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[0m
+2024-03-25 16:21:56,392: asyncio: INFO: [MLTrader] Executing the on_bot_crash event method
+2024-03-25 16:21:56,430: root: INFO: Risk Free Rate 1.51%
+2024-03-25 16:21:56,468: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:56,473: root: INFO: Current backtesting datetime 2020-01-22 16:00:00-05:00
+2024-03-25 16:21:56,474: root: INFO: Current backtesting datetime 2020-01-23 09:30:00-05:00
+2024-03-25 16:21:56,475: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:56[0m
+2024-03-25 16:21:56,475: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:56,477: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:57,144: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:57[0m
+2024-03-25 16:21:57,145: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:57,147: root: INFO: Current backtesting datetime 2020-01-23 16:00:00-05:00
+2024-03-25 16:21:57,147: root: INFO: Current backtesting datetime 2020-01-24 09:30:00-05:00
+2024-03-25 16:21:57,148: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:57[0m
+2024-03-25 16:21:57,148: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:57,149: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:57,327: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:57[0m
+2024-03-25 16:21:57,329: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:57,330: root: INFO: Current backtesting datetime 2020-01-24 16:00:00-05:00
+2024-03-25 16:21:57,331: root: INFO: Current backtesting datetime 2020-01-25 09:30:00-05:00
+2024-03-25 16:21:57,332: asyncio: INFO: [MLTrader] [34mThe market is not currently open, skipping this trading iteration[0m
+2024-03-25 16:21:57,334: root: INFO: Current backtesting datetime 2020-01-25 09:29:00-05:00
+2024-03-25 16:21:57,337: root: INFO: Current backtesting datetime 2020-01-25 09:29:00-05:00
+2024-03-25 16:21:57,337: asyncio: INFO: [MLTrader] Executing the after_market_closes lifecycle method
+2024-03-25 16:21:57,339: root: INFO: Current backtesting datetime 2020-01-27 08:30:00-05:00
+2024-03-25 16:21:57,340: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-03-25 16:21:57,341: root: INFO: Current backtesting datetime 2020-01-27 09:30:00-05:00
+2024-03-25 16:21:57,342: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-03-25 16:21:57,343: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:57[0m
+2024-03-25 16:21:57,344: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:57,345: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:57,531: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:57[0m
+2024-03-25 16:21:57,534: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:57,539: root: INFO: Current backtesting datetime 2020-01-27 16:00:00-05:00
+2024-03-25 16:21:57,540: root: INFO: Current backtesting datetime 2020-01-28 09:30:00-05:00
+2024-03-25 16:21:57,541: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:57[0m
+2024-03-25 16:21:57,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:57,544: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:57,732: asyncio: INFO: [MLTrader] [31mAn error occurred during the on_trading_iteration lifecycle method: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 2.00 GiB of which 0 bytes is free. Of the allocated memory 1.69 GiB is allocated by PyTorch, and 32.50 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)[0m
+2024-03-25 16:21:57,734: asyncio: INFO: [MLTrader] [31mTraceback (most recent call last):
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\lumibot\strategies\strategy_executor.py", line 345, in _on_trading_iteration
+    on_trading_iteration()
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Matthieu\Projets Python\Monney_AI\trading_bot.py", line 60, in on_trading_iteration
+    probability, sentiment = self.get_sentiment_news()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Matthieu\Projets Python\Monney_AI\trading_bot.py", line 54, in get_sentiment_news
+    probability, sentiment = get_news_sentiment(news)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Matthieu\Projets Python\Monney_AI\sentiment_analysis.py", line 15, in get_news_sentiment
+    result = model(tokens["input_ids"],attention_mask=tokens["attention_mask"])[
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 1564, in forward
+    outputs = self.bert(
+              ^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 1013, in forward
+    encoder_outputs = self.encoder(
+                      ^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 607, in forward
+    layer_outputs = layer_module(
+                    ^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 497, in forward
+    self_attention_outputs = self.attention(
+                             ^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 427, in forward
+    self_outputs = self.self(
+                   ^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Matthieu\Projets Python\Monney_AI\.venv\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 367, in forward
+    context_layer = context_layer.permute(0, 2, 1, 3).contiguous()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 2.00 GiB of which 0 bytes is free. Of the allocated memory 1.69 GiB is allocated by PyTorch, and 32.50 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[0m
+2024-03-25 16:21:57,734: asyncio: INFO: [MLTrader] Executing the on_bot_crash event method
+2024-03-25 16:21:57,760: root: INFO: Risk Free Rate 1.53%
+2024-03-25 16:21:57,793: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:57,801: root: INFO: Current backtesting datetime 2020-01-28 16:00:00-05:00
+2024-03-25 16:21:57,802: root: INFO: Current backtesting datetime 2020-01-29 09:30:00-05:00
+2024-03-25 16:21:57,805: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:57[0m
+2024-03-25 16:21:57,805: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:57,806: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:58,666: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:58[0m
+2024-03-25 16:21:58,669: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:58,672: root: INFO: Current backtesting datetime 2020-01-29 16:00:00-05:00
+2024-03-25 16:21:58,672: root: INFO: Current backtesting datetime 2020-01-30 09:30:00-05:00
+2024-03-25 16:21:58,673: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:58[0m
+2024-03-25 16:21:58,673: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:58,675: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:58,845: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:58[0m
+2024-03-25 16:21:58,846: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:58,848: root: INFO: Current backtesting datetime 2020-01-30 16:00:00-05:00
+2024-03-25 16:21:58,848: root: INFO: Current backtesting datetime 2020-01-31 09:30:00-05:00
+2024-03-25 16:21:58,849: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:58[0m
+2024-03-25 16:21:58,849: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:58,850: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:59,026: asyncio: INFO: [MLTrader] [34mTrading iteration ended at 2024-03-25 16:21:59[0m
+2024-03-25 16:21:59,028: asyncio: INFO: [MLTrader] [34mSleeping for 86400 seconds[0m
+2024-03-25 16:21:59,030: root: INFO: Current backtesting datetime 2020-01-31 16:00:00-05:00
+2024-03-25 16:21:59,030: root: INFO: Current backtesting datetime 2020-02-01 09:30:00-05:00
+2024-03-25 16:21:59,031: asyncio: INFO: [MLTrader] [34mThe market is not currently open, skipping this trading iteration[0m
+2024-03-25 16:21:59,034: root: INFO: Current backtesting datetime 2020-02-01 09:29:00-05:00
+2024-03-25 16:21:59,036: root: INFO: Current backtesting datetime 2020-02-01 09:29:00-05:00
+2024-03-25 16:21:59,037: asyncio: INFO: [MLTrader] Executing the after_market_closes lifecycle method
+2024-03-25 16:21:59,039: root: INFO: Current backtesting datetime 2020-02-03 08:30:00-05:00
+2024-03-25 16:21:59,040: asyncio: INFO: [MLTrader] Executing the before_market_opens lifecycle method
+2024-03-25 16:21:59,042: root: INFO: Current backtesting datetime 2020-02-03 09:30:00-05:00
+2024-03-25 16:21:59,042: asyncio: INFO: [MLTrader] Executing the before_starting_trading lifecycle method
+2024-03-25 16:21:59,045: asyncio: INFO: [MLTrader] [34mExecuting the on_trading_iteration lifecycle method at 2024-03-25 16:21:59[0m
+2024-03-25 16:21:59,045: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-25 16:21:59,047: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
